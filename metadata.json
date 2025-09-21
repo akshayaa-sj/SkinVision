@@ -1,0 +1,5 @@
+
+{
+  "name": "SkinVision: AI Psoriasis Detector",
+  "description": "A web application for patients and doctors to detect common and rare types of psoriasis from skin images using an AI model. It provides predictions, confidence scores, and explainability heatmaps."
+}
